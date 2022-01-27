@@ -78,4 +78,7 @@ else{
         }
         console.log("Your result is = 'GOlDEN F'")       
     }
+    else{
+        console.log("please enter your exam number")
+    }
 }
